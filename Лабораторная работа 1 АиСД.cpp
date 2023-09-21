@@ -1,5 +1,6 @@
 ﻿
 #include <iostream>
+//гыгыгыгг
 
 using namespace std;
 class Node {   // отдельные элементы связанного списка
