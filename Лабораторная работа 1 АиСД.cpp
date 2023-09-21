@@ -179,6 +179,7 @@ public:
 	}
 
 
+
 	bool ListEmpty() {
 		// Проверка списка на пустоту
 		Node* ptr = head;
